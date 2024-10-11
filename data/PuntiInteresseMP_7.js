@@ -1,0 +1,1 @@
+var json_PuntiInteresseMP_7 = {"type":"FeatureCollection","name":"PuntiInteresseMP_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"3","Tipo":"Sito Spandimento"},"geometry":{"type":"MultiPoint","coordinates":[[16.038466054780546,38.544451942194563]]}}]}
